@@ -1,4 +1,4 @@
-from app.coins import get_coin_combination
+from main import get_coin_combination
 
 
 def test_should_return_only_pennies() -> None:
